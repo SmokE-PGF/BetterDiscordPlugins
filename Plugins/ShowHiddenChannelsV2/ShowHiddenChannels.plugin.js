@@ -203,7 +203,7 @@ module.exports = (_ => {
 				};
 				
 				this.css = `
-					.accessModal-w5HjsV${BDFDB.dotCN.messagespopoutemptyplaceholder}{
+					.accessModal-w5HjsV${BDFDB.dotCN.messagespopoutemptyplaceholder} {
 						position: absolute;
 						bottom: 0;
 						width: 100%;
